@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samfloyd9
-- 👀 I’m interested in sports, music, videogames and traveling
-- 🌱 I’m currently learning Computer Science at St. Bonaventure University
+- 👀 I’m interested in coding, sports, music, videogames and traveling
+- 🌱 I’m currently looking for a job in front-end web development after graduating from St. Bonaventure University
 - 💞️ I’m looking to collaborate on anything that will help me in the future
-- 📫 How to reach me: (Email: floydsd18@bonaventure.edu) or (Phone: 585-441-4035)
+- 📫 How to reach me: (Email: floyd.samuel.23@gmail.com) or (Phone: 585-441-4035)
